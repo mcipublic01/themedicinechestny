@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background-color: #a52a2a; /* A rich brown, good for a meat shop */
+    background-color: #31014a; /* A rich brown, good for a meat shop */
     color: white;
     padding: 1em 0;
 }
@@ -24,7 +24,7 @@ nav ul li a {
 }
 
 footer {
-    background-color: #333;
+    background-color: #e3e691;
     color: white;
     text-align: center;
     padding: 1em 0;
